@@ -51,6 +51,7 @@ nav a.selected, nav a:hover {
   margin: 2.5%;
 }
 
+
 #apps li a p {
   margin: 0;
   padding: 5%;
@@ -68,4 +69,10 @@ nav a.selected, nav a:hover {
   padding: 0 50%;
   max-width: 50%;
 
+}
+
+#map {
+  float:right;
+  max-width: 50%;
+  padding: 2%;
 }
